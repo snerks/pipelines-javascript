@@ -2,6 +2,8 @@
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
 
+[![Build Status](https://dev.azure.com/snerks/pipelines-javascript/_apis/build/status/snerks.pipelines-javascript)](https://dev.azure.com/snerks/pipelines-javascript/_build/latest?definitionId=3)
+
 | Example | Build status |
 |---------|--------------|
 | Build | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/javascript/nodejs)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=7) |
